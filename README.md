@@ -1,13 +1,5 @@
 - 👋 Hi, I’m @Priyakrihiit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Priyakrihiit/Priyakrihiit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Data science. I want to become only Data scientist and i am preparing for that. 
 
 Priya - MCA Student | Computer Programmer | Frontend Developer
 
