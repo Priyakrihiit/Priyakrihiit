@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priyakrihiit
 
 
-Priya - Python ||  SQL ||  Django || ML ||  AIS
+Priya - MCA Graduate 
 
 👋 Welcome to my github profile! I am Priya, a dedicated and ambitious MCA graduate with a passion for computer programming and frontend development. Hailing from Bihar, I strongly believe in staying connected to my roots while striving to achieve great heights in my career.
 
